@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(211, 210, 210);
+}
+main{
+    margin:50px;
+    margin-top: 70px;
+}
+h1{
+    font-size:60px;
+    text-align: center;
+
+}
+header nav{
+    border-top: 3px solid #364fd0;
+    border-bottom: 3px solid  #364fd0;
+    top: 100px;
+    width: 100%;
+    background-color: #5b5050af;
+    justify-content: center;
+}
+header nav ul{
+    text-align: center;
+}
+header nav ul li{
+    font-size: 20px;
+    padding: 15px;
+    display: inline;
+}
+header img{
+    width:80%;
+    height:40% ;
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+}
+h2{
+    font-size: 1.6rem;
+    text-align: center;
+}
+.parrafo {
+    font-size: 1.4rem;
+    text-align: center;
+}
+#que_es img{
+    height: 200px;
+    display: inline-block;
+    margin: auto;
+    margin-left: 200px;
+    border-radius: 1rem;
+}
+#como_funciona{
+    margin-top: 10rem;
+}
+#clasificacion1{
+    padding-top: 0px;
+    margin-left: 200px;
+    font-size: 1.4rem;
+    text-align: center;
+}
+#ejemplos{
+    margin-top: 10rem;
+}
+.producto {
+    border: 1px solid black;
+    border-radius: 4rem;
+    width: 27%;
+    display: inline-block;
+    margin: 1rem;
+    padding: 2rem 2rem;
+}
+.producto img {
+    height: 200px;
+    border-radius: 1rem;
+    display: block;
+    margin: auto;
+}
